@@ -1,7 +1,5 @@
 # MeetingCreateBot
-Creates meetings automatically in the VTLUUG wiki.
-
-Written by Brendan Gregos (bgregos) for the Linux and Unix Users Group at Virginia Tech (VTLUUG).
+Creates meetings automatically in the VTLUUG (Linux and Unix Users Group at Virginia Tech) wiki.
 
 ## Installation
 1. Download pywikibot if you haven't done so already.
