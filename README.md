@@ -21,5 +21,10 @@ The following symbols are recognized and replaced in the template files:
 * `$d` is replaced by the meeting being created's date, in ISO format
 * `$l` is replaced by last meeting's date, in ISO format. Note that this value is whenever the most recent meeting found was, it is NOT a one week prior symbol.
 
-## Runtime Options
+## Running
+Launch the script with `./luugmeeting.py`. No drama necessary!
+
 You can supply `-d YYYY-MM-DD` when running the script to supply a date to create the meeting, otherwise, today is assumed.
+
+## Contributions/Forking
+MeetingCreateBot uses the MIT License. If you want to submit pull requests with features/fixes, you're definitely welcome. Also, feel free to modify this code to suit your needs. The current code shouldn't be too hard to modify to work with your own wiki.
