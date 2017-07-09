@@ -1,0 +1,23 @@
+The previous meeting was on [[VTLUUG:$l|$l]].
+== Date, Time, and Location ==
+* $d
+* 8:00pm - 9:30pm
+* 261 [[gp:Durham Hall|Durham Hall]]
+
+== Business ==
+=== Announcements ===
+
+=== Planning ===
+
+==News==
+
+== Learning opportunities ==
+
+== Talks ==
+
+== Hacking ==
+
+== Notes ==
+
+[[category:VTLUUG:Meetings]]
+[[category:2017]]
