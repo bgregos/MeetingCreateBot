@@ -22,4 +22,4 @@ The following symbols are recognized and replaced in the template files:
 * `$l` is replaced by last meeting's date, in ISO format. Note that this value is whenever the most recent meeting found was, it is NOT a one week prior symbol.
 
 ## Runtime Options
-You can supply -d YYYY-MM-DD when running the script to supply a date to create the meeting, otherwise, today is assumed.
+You can supply `-d YYYY-MM-DD` when running the script to supply a date to create the meeting, otherwise, today is assumed.
